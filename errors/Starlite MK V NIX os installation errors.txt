@@ -1,0 +1,3 @@
+With swap (hibernate): https://termbin.com/k06n
+With swap (no hibernate): https://termbin.com/0fd0
+With no swap: Success!
